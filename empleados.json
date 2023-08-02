@@ -1,0 +1,25 @@
+{
+  "empleados": [
+    {
+      "id": 1,
+      "nombre": "Juan",
+      "puesto": "Desarrollador",
+      "edad": 30,
+      "salario": 45000.00
+    },
+    {
+      "id": 2,
+      "nombre": "María",
+      "puesto": "Diseñador",
+      "edad": 28,
+      "salario": 38000.00
+    },
+    {
+      "id": 3,
+      "nombre": "Pedro",
+      "puesto": "Gerente",
+      "edad": 35,
+      "salario": 60000.00
+    }
+  ]
+}
